@@ -9,6 +9,14 @@ Objective:
 
 #### Include a written description of at least two observable trends based on the data.
 
+Highlights:
+*1.
+*2.
+
+
+
+
+
 
 
 Created by: Ana Daniela Barreto Rodriguez.\
