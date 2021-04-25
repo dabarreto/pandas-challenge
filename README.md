@@ -18,9 +18,6 @@ Highlights:
 \
 \
 \
-\
-\
-\
 Created by: Ana Daniela Barreto Rodriguez.\
 Data Analytics Bootcamp - Tecnologico de Monterrey.\
 Powered by Trilogy Education Services ©.\
